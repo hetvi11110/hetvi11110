@@ -6,9 +6,8 @@ Web Dev
 
 * 🌍  I'm based in Toranto
 * ✉️  You can contact me at [hetvi.patel.developer@gmail.com](mailto:hetvi.patel.developer@gmail.com)
-* 🧠  I'm learning C#
 * 🤝  I'm open to collaborating on Interesting Projects
-* ⚡  I am quick lererner and deep recearcher.
+* ⚡  I am a quick lererner and a deep recearcher.
 
 ### Skills
 
