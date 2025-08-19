@@ -4,10 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Dev
 -------
 
-* 🌍  I'm based in Ontario, Canada.
-* ✉️  You can contact me at [hetvi.patel.developer@gmail.com](mailto:hetvi.patel.developer@gmail.com)
-* 🤝  I'm open to collaborating on Interesting Projects
-* ⚡  I am a quick learner and a thorough researcher.
+* 🌍  Based in Ontario, Canada.
+* ✉️  Reach me at: hetvi.patel.developer@gmail.com  
+* 🤝  Open to collaborating on challenging projects 
+* ⚡  A quick learner and thorough researcher, always eager to solve problems and explore new technologies
 
 ### Skills
 
