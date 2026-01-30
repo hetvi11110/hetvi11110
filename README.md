@@ -8,6 +8,7 @@ Web Dev
 * ✉️  Reach me at: hetvi.patel.developer@gmail.com  
 * 🤝  Open to collaborating on challenging projects 
 * ⚡  A quick learner and thorough researcher, always eager to solve problems and explore new technologies
+* 👩🏻‍💼  My work as a developer is a reflection of my life's philosophy: explore, learn and grow.
 
 ### Skills
 
